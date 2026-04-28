@@ -87,3 +87,9 @@ playwright.config.js
 ```
 ##SCREENSHOTS
 <img width="818" height="227" alt="image" src="https://github.com/user-attachments/assets/091d18e0-0e24-4ac4-85fe-f8649a1d9657" />
+
+## LambdaTest Execution
+Tests were successfully executed on LambdaTest cloud platform.
+
+<img width="1903" height="841" alt="image" src="https://github.com/user-attachments/assets/42f95684-511f-4eae-863b-1bde91e3c599" />
+
