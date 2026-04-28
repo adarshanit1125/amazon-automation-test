@@ -26,8 +26,7 @@ Both tests are executed **in parallel** to improve efficiency.
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
-cd <project-folder>
+git clone <https://github.com/adarshanit1125/amazon-automation-test>
 ```
 
 2. Install dependencies:
