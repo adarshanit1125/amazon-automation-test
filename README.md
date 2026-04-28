@@ -85,3 +85,5 @@ tests/
   galaxy.spec.js
 playwright.config.js
 ```
+##SCREENSHOTS
+<img width="818" height="227" alt="image" src="https://github.com/user-attachments/assets/091d18e0-0e24-4ac4-85fe-f8649a1d9657" />
