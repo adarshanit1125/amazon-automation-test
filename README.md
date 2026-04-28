@@ -1,4 +1,4 @@
-# 🛒 Amazon Automation Testing (Playwright)
+# 🛒 Amazon Automation Testing
 
 ## 📌 Overview
 
